@@ -3,8 +3,11 @@
 
 # Log file
 *.log
+<<<<<<< HEAD
 *.iml
 *.xml
+=======
+>>>>>>> 8ff092eff5b30ea7b1fe332cf125331e5fb98a94
 
 # BlueJ files
 *.ctxt
@@ -24,5 +27,8 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+<<<<<<< HEAD
 .idea*
 una-psc-alg-calculadora-java-poo*
+=======
+>>>>>>> 8ff092eff5b30ea7b1fe332cf125331e5fb98a94
